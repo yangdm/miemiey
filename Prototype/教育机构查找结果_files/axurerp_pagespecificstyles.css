@@ -1,0 +1,1172 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../教育机构查找结果_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:1340px;
+    height:650px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1346px;
+    height:656px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:317px;
+    width:1336px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:0px;
+    top:110px;
+    width:1340px;
+    height:650px
+}
+
+.u2_original {
+    background-image: url('../教育机构查找结果_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:907px;
+    top:370px;
+    width:240px;
+    height:384px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:246px;
+    height:390px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:184px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:907px;
+    top:370px;
+    width:240px;
+    height:384px
+}
+
+.u4 {
+    position:absolute;
+    left:920px;
+    top:376px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:939px;
+    top:481px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:941px;
+    top:403px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:942px;
+    top:421px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:941px;
+    top:440px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:941px;
+    top:460px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:939px;
+    top:506px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:939px;
+    top:521px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:929px;
+    top:534px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_original {
+    background-image: url('../教育机构查找结果_files/u13_original.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:186px;
+    top:110px;
+    width:721px;
+    height:644px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:727px;
+    height:650px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:314px;
+    width:717px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:186px;
+    top:110px;
+    width:721px;
+    height:644px
+}
+
+.u15 {
+    position:absolute;
+    left:917px;
+    top:562px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:936px;
+    top:667px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:938px;
+    top:584px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:939px;
+    top:606px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:938px;
+    top:626px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:938px;
+    top:646px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:936px;
+    top:692px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:936px;
+    top:706px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:926px;
+    top:721px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:529px;
+    top:255px;
+    width:390px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:80px;
+    top:719px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_original {
+    background-image: url('../教育机构查找结果_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1341px;
+    height:110px;
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1341px;
+    height:110px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:47px;
+    width:1337px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1341px;
+    height:110px
+}
+
+.u28 {
+    position:absolute;
+    left:10px;
+    top:2px;
+    width:150px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_original {
+    background-image: url('../教育机构查找结果_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:908px;
+    top:110px;
+    width:240px;
+    height:210px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:246px;
+    height:216px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:97px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:908px;
+    top:110px;
+    width:240px;
+    height:210px
+}
+
+.u31 {
+    position:absolute;
+    left:920px;
+    top:122px;
+    width:157px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_original {
+    background-image: url('../教育机构查找结果_files/u32_original.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:187px;
+    top:110px;
+    width:723px;
+    height:214px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:729px;
+    height:220px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:99px;
+    width:719px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:187px;
+    top:110px;
+    width:723px;
+    height:214px
+}
+
+.u34 {
+    position:absolute;
+    left:520px;
+    top:210px;
+    width:270px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_original {
+    background-image: url('../教育机构查找结果_files/u35_original.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:187px;
+    top:324px;
+    width:720px;
+    height:426px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:720px;
+    height:426px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:205px;
+    width:716px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:187px;
+    top:324px;
+    width:720px;
+    height:426px
+}
+
+.u37 {
+    position:absolute;
+    left:536px;
+    top:330px;
+    width:290px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u38 {
+    position:absolute;
+    left:827px;
+    top:330px;
+    width:74px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u39 {
+    position:absolute;
+    left:910px;
+    top:330px;
+    width:230px;
+    height:30px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u40 {
+    position:absolute;
+    left:230px;
+    top:211px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:950px;
+    top:151px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:980px;
+    top:380px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_original {
+    background-image: url('../教育机构查找结果_files/u43_original.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:190px;
+    top:360px;
+    width:710px;
+    height:106px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:710px;
+    height:106px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:706px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:190px;
+    top:360px;
+    width:710px;
+    height:106px
+}
+
+.u45_original {
+    background-image: url('../教育机构查找结果_files/u43_original.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:190px;
+    top:460px;
+    width:710px;
+    height:106px;
+}
+
+#u45_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:710px;
+    height:106px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:706px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:190px;
+    top:460px;
+    width:710px;
+    height:106px
+}
+
+.u47_original {
+    background-image: url('../教育机构查找结果_files/u43_original.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:190px;
+    top:560px;
+    width:710px;
+    height:106px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:710px;
+    height:106px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:706px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:190px;
+    top:560px;
+    width:710px;
+    height:106px
+}
+
+.u49_original {
+    background-image: url('../教育机构查找结果_files/u49_original.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:190px;
+    top:661px;
+    width:690px;
+    height:106px;
+}
+
+#u49_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:690px;
+    height:106px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:45px;
+    width:686px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:190px;
+    top:661px;
+    width:690px;
+    height:106px
+}
+
+.u51_original {
+    background-image: url('../教育机构查找结果_files/u51_original.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:-11px;
+    top:761px;
+    width:1330px;
+    height:28px;
+}
+
+#u51_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1330px;
+    height:28px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:1326px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:-11px;
+    top:761px;
+    width:1330px;
+    height:28px
+}
+
+.u53c0 {
+    background-image: url('../教育机构查找结果_files/u53c0.png');
+}
+
+.u53c0 {
+    position:absolute;
+    left:156px;
+    top:480px;
+    width:34px;
+    height:20px;
+}
+
+.u53c1 {
+    background-image: url('../教育机构查找结果_files/u53c1.png');
+}
+
+.u53c1 {
+    position:absolute;
+    left:170px;
+    top:480px;
+    width:20px;
+    height:37px;
+}
+
+.u53c2 {
+    background-image: url('../教育机构查找结果_files/u53c2.png');
+}
+
+.u53c2 {
+    position:absolute;
+    left:170px;
+    top:497px;
+    width:35px;
+    height:20px;
+}
+
+.u53c3 {
+    background-image: url('../教育机构查找结果_files/u53c3.png');
+}
+
+.u53c3 {
+    position:absolute;
+    left:185px;
+    top:499px;
+    width:20px;
+    height:18px;
+}
+
+.u54 {
+    position:absolute;
+    left:-30px;
+    top:0px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:20px;
+    top:470px;
+    width:150px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:20px;
+    top:533px;
+    width:150px;
+    height:54px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57c0 {
+    background-image: url('../教育机构查找结果_files/u57c0.png');
+}
+
+.u57c0 {
+    position:absolute;
+    left:125px;
+    top:543px;
+    width:20px;
+    height:30px;
+}
+
+.u57c1 {
+    background-image: url('../教育机构查找结果_files/u57c1.png');
+}
+
+.u57c1 {
+    position:absolute;
+    left:125px;
+    top:553px;
+    width:65px;
+    height:20px;
+}
+
+.u57c2 {
+    background-image: url('../教育机构查找结果_files/u57c2.png');
+}
+
+.u57c2 {
+    position:absolute;
+    left:170px;
+    top:553px;
+    width:20px;
+    height:27px;
+}
+
+.u57c3 {
+    background-image: url('../教育机构查找结果_files/u57c3.png');
+}
+
+.u57c3 {
+    position:absolute;
+    left:170px;
+    top:560px;
+    width:134px;
+    height:20px;
+}
+
+.u58 {
+    position:absolute;
+    left:21px;
+    top:15px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:20px;
+    top:650px;
+    width:150px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60c0 {
+    background-image: url('../教育机构查找结果_files/u60c0.png');
+}
+
+.u60c0 {
+    position:absolute;
+    left:146px;
+    top:650px;
+    width:249px;
+    height:20px;
+}
+
+.u60c1 {
+    background-image: url('../教育机构查找结果_files/u60c1.png');
+}
+
+.u60c1 {
+    position:absolute;
+    left:375px;
+    top:650px;
+    width:20px;
+    height:29px;
+}
+
+.u61 {
+    position:absolute;
+    left:75px;
+    top:-8px;
+    width:100px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_text {
+    position:absolute;
+    left:220px;
+    top:333px;
+    width:120px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:220px;
+    top:333px;
+    width:120px;
+    height:16px
+}
+

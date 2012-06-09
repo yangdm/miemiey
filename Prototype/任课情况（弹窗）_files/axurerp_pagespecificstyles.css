@@ -1,0 +1,1058 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../任课情况（弹窗）_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:173px;
+    top:20px;
+    width:497px;
+    height:339px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:503px;
+    height:345px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:493px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:173px;
+    top:20px;
+    width:497px;
+    height:339px
+}
+
+.u2 {
+    position:absolute;
+    left:173px;
+    top:21px;
+    width:269px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:260px;
+    top:275px;
+    width:89px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:385px;
+    top:274px;
+    width:90px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u5 {
+    position:absolute;
+    left:200px;
+    top:76px;
+    width:456px;
+    height:186px
+}
+
+.u5_table {
+    background-image: url('../任课情况（弹窗）_files/u5_table.png');
+}
+
+.u5_table {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:460px;
+    height:190px;
+}
+
+.u6_original {
+    background-image: url('../任课情况（弹窗）_files/u6_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:23px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:23px
+}
+
+.u8_original {
+    background-image: url('../任课情况（弹窗）_files/u8_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:32px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:32px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u10_original {
+    background-image: url('../任课情况（弹窗）_files/u10_original.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:132px;
+    top:0px;
+    width:240px;
+    height:23px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:132px;
+    top:0px;
+    width:240px;
+    height:23px
+}
+
+.u12_original {
+    background-image: url('../任课情况（弹窗）_files/u12_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:372px;
+    top:0px;
+    width:79px;
+    height:23px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:372px;
+    top:0px;
+    width:79px;
+    height:23px
+}
+
+.u14_original {
+    background-image: url('../任课情况（弹窗）_files/u14_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:23px;
+    width:32px;
+    height:27px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:0px;
+    top:23px;
+    width:32px;
+    height:27px
+}
+
+.u16_original {
+    background-image: url('../任课情况（弹窗）_files/u16_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:32px;
+    top:23px;
+    width:100px;
+    height:27px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:32px;
+    top:23px;
+    width:100px;
+    height:27px
+}
+
+.u18_original {
+    background-image: url('../任课情况（弹窗）_files/u18_original.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:132px;
+    top:23px;
+    width:240px;
+    height:27px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:132px;
+    top:23px;
+    width:240px;
+    height:27px
+}
+
+.u20_original {
+    background-image: url('../任课情况（弹窗）_files/u20_original.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:372px;
+    top:23px;
+    width:79px;
+    height:27px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:372px;
+    top:23px;
+    width:79px;
+    height:27px
+}
+
+.u22_original {
+    background-image: url('../任课情况（弹窗）_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:32px;
+    height:30px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:32px;
+    height:30px
+}
+
+.u24_original {
+    background-image: url('../任课情况（弹窗）_files/u24_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:32px;
+    top:50px;
+    width:100px;
+    height:30px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:32px;
+    top:50px;
+    width:100px;
+    height:30px
+}
+
+.u26_original {
+    background-image: url('../任课情况（弹窗）_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:132px;
+    top:50px;
+    width:240px;
+    height:30px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:132px;
+    top:50px;
+    width:240px;
+    height:30px
+}
+
+.u28_original {
+    background-image: url('../任课情况（弹窗）_files/u28_original.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:372px;
+    top:50px;
+    width:79px;
+    height:30px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:372px;
+    top:50px;
+    width:79px;
+    height:30px
+}
+
+.u30_original {
+    background-image: url('../任课情况（弹窗）_files/u30_original.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:32px;
+    height:29px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:32px;
+    height:29px
+}
+
+.u32_original {
+    background-image: url('../任课情况（弹窗）_files/u32_original.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:32px;
+    top:80px;
+    width:100px;
+    height:29px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:32px;
+    top:80px;
+    width:100px;
+    height:29px
+}
+
+.u34_original {
+    background-image: url('../任课情况（弹窗）_files/u34_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:132px;
+    top:80px;
+    width:240px;
+    height:29px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:132px;
+    top:80px;
+    width:240px;
+    height:29px
+}
+
+.u36_original {
+    background-image: url('../任课情况（弹窗）_files/u36_original.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:372px;
+    top:80px;
+    width:79px;
+    height:29px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:372px;
+    top:80px;
+    width:79px;
+    height:29px
+}
+
+.u38_original {
+    background-image: url('../任课情况（弹窗）_files/u38_original.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:109px;
+    width:32px;
+    height:36px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:0px;
+    top:109px;
+    width:32px;
+    height:36px
+}
+
+.u40_original {
+    background-image: url('../任课情况（弹窗）_files/u40_original.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:32px;
+    top:109px;
+    width:100px;
+    height:36px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:32px;
+    top:109px;
+    width:100px;
+    height:36px
+}
+
+.u42_original {
+    background-image: url('../任课情况（弹窗）_files/u42_original.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:132px;
+    top:109px;
+    width:240px;
+    height:36px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:132px;
+    top:109px;
+    width:240px;
+    height:36px
+}
+
+.u44_original {
+    background-image: url('../任课情况（弹窗）_files/u44_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:372px;
+    top:109px;
+    width:79px;
+    height:36px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:372px;
+    top:109px;
+    width:79px;
+    height:36px
+}
+
+.u46_original {
+    background-image: url('../任课情况（弹窗）_files/u38_original.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:0px;
+    top:145px;
+    width:32px;
+    height:36px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:0px;
+    top:145px;
+    width:32px;
+    height:36px
+}
+
+.u48_original {
+    background-image: url('../任课情况（弹窗）_files/u40_original.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:32px;
+    top:145px;
+    width:100px;
+    height:36px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:32px;
+    top:145px;
+    width:100px;
+    height:36px
+}
+
+.u50_original {
+    background-image: url('../任课情况（弹窗）_files/u42_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:132px;
+    top:145px;
+    width:240px;
+    height:36px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:132px;
+    top:145px;
+    width:240px;
+    height:36px
+}
+
+.u52_original {
+    background-image: url('../任课情况（弹窗）_files/u44_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:372px;
+    top:145px;
+    width:79px;
+    height:36px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:75px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:372px;
+    top:145px;
+    width:79px;
+    height:36px
+}
+
+.u55 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:2px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62 {
+    position:absolute;
+    left:240px;
+    top:229px;
+    width:90px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u63 {
+    position:absolute;
+    left:340px;
+    top:229px;
+    width:210px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u65 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:55px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
