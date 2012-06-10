@@ -1,0 +1,15 @@
+#.gitignore example
+.settings/
+api/
+application/
+archiver/
+config/
+data/
+install/
+library/
+public/
+static/
+testcase/
+tests/
+uc_client/
+uc_server/
