@@ -1,0 +1,72 @@
+<!--//说明: 显示公共头部模板-->
+<!--{template common/header}-->
+
+<!--//说明: 开始显示留言-->
+<div id="ct" class="wp cl">
+	<div class="mn">
+		<h2 class="pbm">教育机构工作空间使用申请</h2>
+		<form method="post" action="school.php?mod=register" class="pns">
+			<input type="hidden" name="formhash" id="formhash" value="{FORMHASH}" />
+			<!--FORMHASH 自动产生，submitcheck()函数要判断这个值-->
+			<table cellspacing="0" cellpadding="0" class="tfm">
+				<tr>
+					<th>机构全称</th>
+					<td><input type="text" name="fullname" id="fullname" class="px" /></td>
+				</tr>
+				<tr>
+					<th>机构简称</th>
+					<td><input type="text" name="shortname" id="shortname" class="px" /></td>
+				</tr>
+				<tr>
+					<th>所在省市</th>
+					<td>
+						<input type="text" name="province" id="Province" class="px" />
+						<input type="text" name="city" id="city" class="px" />
+					</td>
+				</tr>
+				<tr>
+					<th>提供的服务</th>
+					<td>
+						<input type="checkbox" name="kindergarten" id="kindergarten" class="" />幼儿园
+						<input type="checkbox" name="prischool" id="prischool" class="" />小学
+						<input type="checkbox" name="highschool" id="highschool" class="" />中学
+						<input type="checkbox" name="expand" id="expand" class="" />儿童拓展
+						<input type="checkbox" name="training" id="training" class="" />成人培训
+						<input type="checkbox" name="afterschool" id="afterschool" class="" />课后托管
+						<input type="checkbox" name="other" id="other" class="" />其它
+					</td>
+				</tr>
+				<tr>
+					<th>地址</th>
+					<td><input type="text" name="address" id="address" class="px" /></td>
+				</tr>
+				<tr>
+					<th>申请人</th>
+					<td><input type="text" name="applicant" id="applicant" class="px" /></td>
+				</tr>
+				<tr>
+					<th>联系电话</th>
+					<td><input type="text" name="telephone" id="telephone" class="px" /></td>
+				</tr>
+				<tr>
+					<th>电子邮件</th>
+					<td><input type="text" name="email" id="email" class="px" /></td>
+				</tr>
+				<tr>
+					<th>机构概况</th>
+					<td><textarea name="summary" id="summary" cols="100" rows="10" > </textarea></td>
+				</tr>
+				<tr>
+					<th></th>
+					<td>
+						<input type="submit" class="pn pnc" name="submit" value="提交" />
+					</td>
+				</tr>
+			</table>
+		</form>
+	</div>
+</div>
+
+<!--//说明: 显示公共尾部模板-->
+<!--{template common/footer}-->
+

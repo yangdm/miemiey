@@ -1,0 +1,30 @@
+<!--//说明: 显示公共头部模板-->
+<!--{template common/header}-->
+
+<!--//说明: 开始显示留言-->
+<div id="ct" class="wp cl">
+	<h1 class="mt">教育机构 - <!--{if $_G[uid]}--><a href="school.php?mod=publish">申请加入</a><!--{/if}--></h1> 
+	<div class="bm">
+		<!--{if $arealist}-->
+			<div>
+				<!--//说明: loop 循环一个数组 相当于foreach(){}-->
+				<!--{loop $arealist $area}-->
+					<em><a href="school.php?mod=space&sid=$area[id]" title="$area[name]" target="_blank" class="xi2"><strong>$area[name]</strong></a></em> 
+					<br>
+					<!--{loop $area['childareas'] $childarea}-->
+						<em><a href="school.php?mod=space&sid=$childarea[id]" title="$childarea[name]" target="_blank" class="xi2">$childarea[name]</a></em>
+					<!--{/loop}-->
+					<hr>
+				<!--{/loop}-->
+			</div>
+			<!--//说明: 显示准备好的分页链接-->
+			$multi
+		<!--{else}-->
+			<p class="emp">暂时没有记录...</p>
+		<!--{/if}-->
+	</div>
+</div>
+
+<!--//说明: 显示公共尾部模板-->
+<!--{template common/footer}-->
+
